@@ -1,5 +1,5 @@
 package SourcePac;
-
+import assignment1.Student;
 /**
  *
  * @author Edgars
