@@ -14,7 +14,7 @@ public class Driver {
         //populating the arraylist
         studentsTakingClass.add(new Student("Joe", 19, "19951106", 112));
         studentsTakingClass.add(new Student("Sacy", 20, "19940806", 445));
-        studentsTakingClass.add(new Student("Bobby", 17, "19981205", 445));
+        studentsTakingClass.add(new Student("Bobby", 17, "19981205", 443));
         studentsTakingClass.add(new Student("Debbie", 18, "19981202", 498));
         
         //creating new modules
@@ -38,6 +38,7 @@ public class Driver {
         //adding modules to course
         arts.addModules(modulesAssociated);
         
+        //print out info
         System.out.println(arts);
         
         
