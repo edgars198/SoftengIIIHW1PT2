@@ -120,7 +120,7 @@
 	<dependency>
 	    <groupId>com.github.edgars198</groupId>
 	    <artifactId>SoftengIIIHW1PT1</artifactId>
-	    <version>master</version>
+	    <version>1.3</version>
 	</dependency>
         <dependency>
             <groupId>joda-time</groupId>
